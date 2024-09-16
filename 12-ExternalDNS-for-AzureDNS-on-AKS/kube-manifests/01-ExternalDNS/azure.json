@@ -1,7 +1,7 @@
 {
   "tenantId": "8af3d930-cd3f-4d42-a207-4956d0013d0a",
   "subscriptionId": "bfe19521-8965-4b23-b49e-e0689b444850",
-  "resourceGroup": "aks-rg1", 
+  "resourceGroup": "dns-zones", 
   "useManagedIdentityExtension": true,
   "userAssignedIdentityID": "5b5e969e-779b-4621-9582-c1240cdc7fb3"
 }
